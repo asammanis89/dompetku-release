@@ -2,15 +2,25 @@
 
 # Dompetku
 
-Catatan dompet harian tanpa login. Data tersimpan di HP, tanpa akun, tanpa internet.
+Catatan dompet harian tanpa login. Data tersimpan di HP, tanpa akun. Dibuat oleh **Ardha**.
 
 ## ⬇️ [Unduh Dompetku.apk](https://github.com/asammanis89/dompetku-release/raw/main/Dompetku.apk)
 
-Versi terbaru: **v0.3.0**. Ukuran sekitar 80 MB.
+Versi terbaru: **v0.4.0**. Ukuran sekitar 80 MB.
 
 ![Tampilan Dompetku](layar.png)
 
-## Yang baru di v0.3.0
+## Yang baru di v0.4.0
+
+- **Tampilan baru**: gelap mengkilap dengan aksen oranye.
+- **Update dari dalam aplikasi**: kalau ada versi baru, Dompetku memberi tahu. Pilih **Perbarui**, **Nanti**, atau **Lewati versi ini**.
+  Bisa dimatikan di **Atur → Pembaruan**.
+- **Tombol Dukung** (kanan atas): saweran untuk pengembang lewat DANA.
+- Ketik cepat tidak lagi diubah oleh autokoreksi keyboard (misalnya "bakso" jadi "Baks").
+
+> Pengguna v0.3.0: pasang v0.4.0 ini **sekali secara manual** dari link di atas. Mulai v0.4.0, update berikutnya muncul sendiri di aplikasi.
+
+## v0.3.0
 
 - **Scan struk**: foto struk (atau pilih dari galeri), total dan nama toko terisi otomatis, tinggal periksa lalu simpan.
   Scan pertama butuh internet sebentar untuk menyiapkan pembaca struk; setelah itu bisa tanpa internet.
@@ -36,4 +46,8 @@ Versi terbaru: **v0.3.0**. Ukuran sekitar 80 MB.
 
 ## Update
 
-Unduh lagi dari link yang sama, lalu pasang di atas versi lama. Catatanmu tetap aman, jangan uninstall dulu.
+Saat ada versi baru, Dompetku menawarkan update. Pilih **Perbarui**, tunggu unduhan selesai, lalu **Instal**.
+Pertama kali, Android akan bilang *"HP tidak diizinkan menginstal aplikasi tidak dikenal dari sumber ini"*:
+ketuk **Setelan**, nyalakan **Izinkan dari sumber ini** untuk Dompetku, lalu kembali dan pilih **Instal**.
+
+Bisa juga unduh lagi dari link di atas, lalu pasang di atas versi lama. Catatanmu tetap aman, **jangan uninstall dulu**.

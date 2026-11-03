@@ -6,11 +6,16 @@ Catatan dompet harian tanpa login. Data tersimpan di HP, tanpa akun. Dibuat oleh
 
 ## ⬇️ [Unduh Dompetku.apk](https://github.com/asammanis89/dompetku-release/raw/main/Dompetku.apk)
 
-Versi terbaru: **v0.4.0**. Ukuran sekitar 80 MB.
+Versi terbaru: **v0.4.2**. Ukuran sekitar 80 MB.
 
 ![Tampilan Dompetku](layar.png)
 
-## Yang baru di v0.4.0
+## Yang baru di v0.4.2
+
+- Update dalam app hanya mau mengunduh dari repo resmi Dompetku.
+- File update (~80 MB) dihapus otomatis setelah terpasang, memori HP tidak terbuang.
+
+## v0.4.0
 
 - **Tampilan baru**: gelap mengkilap dengan aksen oranye.
 - **Update dari dalam aplikasi**: kalau ada versi baru, Dompetku memberi tahu. Pilih **Perbarui**, **Nanti**, atau **Lewati versi ini**.
